@@ -2,7 +2,7 @@
 
 - I am a business analyst, a highly structured problem solver with a data-driven mindset, driven by endless enthusiasm to tackle challenges across industries and functions. 
 - Currently working as a FP&A lead at South Korean startup.
-- Studied Economicss and Business analystics 
+- Studied Economicss from UC Berkeley and Business analystics from NYU Stern School of Business
 - 💻 I'm looking for an **experience** in the field of **developer advocacy engineer**.
 - 🤝🏻 I'm open for collaborations in **MLOps** and **NLP** domains.
 - 🎯 Goal (2023): Get better at content management and creation.
