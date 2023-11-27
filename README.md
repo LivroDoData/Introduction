@@ -30,8 +30,8 @@
 
 <br></br>
 
-## Most Read Knuggets Blogs:
-1. [7 Machine Learning Portfolio Projects to Boost the Resume](https://www.kdnuggets.com/2022/09/7-machine-learning-portfolio-projects-boost-resume.html)
+## Projects at the office:
+1. [[Cost Analysis]How to Save Amazon Web Service at Startup](https://medium.com/@pck0612/cost-analysis-amazon-web-service-aws-at-startup-8ec12fd8d227)
 2. [5 Free Tools For Detecting ChatGPT, GPT3, and GPT2](https://www.kdnuggets.com/2023/02/5-free-tools-detecting-chatgpt-gpt3-gpt2.html)
 3. [5 Tips for Acing Your First Data Science Interview](https://towardsdatascience.com/5-tips-for-acing-your-first-data-science-interview-dbad5b5959d7)
 4. [OpenChatKit: Open-Source ChatGPT Alternative](https://www.kdnuggets.com/2023/03/openchatkit-opensource-chatgpt-alternative.html)
