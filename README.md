@@ -24,7 +24,7 @@
 ## Contact me on:
 [<img align="left" alt="abid | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@abidaliawan)
 [<img align="left" alt="abid | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/chankyung-park-699700117/)
-
+[<img align="left" alt="abid | Email" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/df7db8a2c4c2605113121ee72f96ee678406d50d/icons/maildotru.svg" />](cp3896@stern.nyu.edu)
 <br></br>
 
 ## Projects at the office:
